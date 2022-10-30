@@ -2,7 +2,7 @@
 
 - 🔭 Estudando Desenvolvimento Front end.
 
-<div align="center">
+<div>
   <a href="https://github.com/LucasGabriel4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGabriel4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabriel4&layout=compact&langs_count=7&theme=dracula"/>
